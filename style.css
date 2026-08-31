@@ -1,0 +1,84 @@
+ p   
+        {
+            text-align: justify;
+            color: #003E9A;
+        }
+        
+        hr
+        {
+            background-color: #003E9A;
+        }
+        
+        .main {
+            width: 100%;
+            background-color: white;
+        }
+        
+        /*header & footer text*/
+        .css-10trblm, .css-10trblm  {
+            color: #001330;
+        }
+        
+        /*sidebar bg color*/
+        .css-1ope8sv {
+            background-color: #001330;
+        }
+        
+        /*sidebar close button*/
+        .css-1xtoq5p, button  {
+            color: #FFD233;
+        }
+                
+                
+        /*Colored Button CSS*/
+        div.stButton > button:first-child
+        {
+            color: #FFFFFF;
+            background-color: #042E6D;
+        }
+        div.stButton > button:hover {
+            border-color: #00265F;
+            box-shadow: 0 0 10px rgba(10, 62, 140, .4);:#0A3E8C;
+        }
+        div.stButton > button:active  {
+            color: #FFFFFF;
+            border-color: #03285F;
+            box-shadow: 0 0 10px rgba(10, 62, 140, .4);:#0A3E8C;
+        }
+        div.stButton > button:focus
+        {
+            background-color: #0A3E8C;
+            box-shadow: rgb(10 62 140 / 50%) 0px 0px 0px 0.1rem;
+            outline: none;
+        }
+        div.stButton > button:focus:not(:active) {
+            color: #FFFFFF;
+            background-color: #042E6D;
+            border-color: #042E6D;
+            box-shadow: 0 0 10px rgba(10, 62, 140, .4);:##004ac2;
+        }
+
+        a:link , a:visited{
+        color: blue;
+        background-color: transparent;
+        text-decoration: underline;
+        }
+        a:hover,  a:active {
+        color: red;
+        background-color: transparent;
+        text-decoration: underline;
+        }
+        
+        footer {visibility: hidden;}
+        
+        footer:after {
+            content:'BESA & CABALAN, 2022-2023  ';
+            color: #001330;
+            text-align: right;
+            visibility: visible;
+            display: block;
+            position: relative;
+            padding: 5px;
+            top: 2px;
+        }
+        
