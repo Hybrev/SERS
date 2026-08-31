@@ -1,6 +1,6 @@
-# SERS — Speech Emotion Recognition System
+# SERS — Speech Emotion Recognition System (Thesis App)
 
-SERS is a Streamlit application that detects emotions from speech recordings using deep-learning models trained on the RAVDESS dataset.
+A Streamlit application that detects emotions from speech recordings using deep-learning models trained on the RAVDESS dataset.
 
 ## Features
 
