@@ -1,3 +1,4 @@
+*.p filter=lfs diff=lfs merge=lfs -text
 experiment/pickles/conv2.p filter=lfs diff=lfs merge=lfs -text
 experiment/models/Xception100M.model/variables/variables.data-00000-of-00001 filter=lfs diff=lfs merge=lfs -text
 experiment/models/res50100M.model/variables/variables.data-00000-of-00001 filter=lfs diff=lfs merge=lfs -text
